@@ -1,0 +1,5 @@
+Using a JS framework or different UI library on the frontend.
+
+Designing a database or caching layer.
+
+Setting up real authentication, analytics, or CI/CD workflows.

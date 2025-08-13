@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+youtube-transcript-api
+openai
+scikit-learn
+python-dotenv
+slowapi
