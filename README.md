@@ -17,7 +17,7 @@ This will launch the backend server and automatically open the frontend UI in yo
 6. Paste any YouTube video URL or ID in the input field and hit Analyze to get results.
 
 ## 📽 Demo Video
-[▶ Watch Demo](demo.mp4)
+![Demo](demo(2).gif)
 ## What This Project Does
 
 - Extracts English transcripts from YouTube videos using `youtube-transcript-api`.
@@ -38,6 +38,7 @@ This will launch the backend server and automatically open the frontend UI in yo
 - **Ready for Improvement:** Supports manual category editing and data collection for future model training.
 
 Feel free to reach out if you want to add features like rate limiting, database persistence, or Docker deployment!
+
 
 
 
