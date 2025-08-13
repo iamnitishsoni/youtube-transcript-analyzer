@@ -19,6 +19,8 @@ This will launch the backend server and automatically open the frontend UI in yo
 ## 📽 Demo Video
 ![Demo](demo.gif)
 
+`if not visible pls check demo.gif file`
+
 ## What This Project Does
 
 - Extracts English transcripts from YouTube videos using `youtube-transcript-api`.
@@ -39,6 +41,7 @@ This will launch the backend server and automatically open the frontend UI in yo
 - **Ready for Improvement:** Supports manual category editing and data collection for future model training.
 
 Feel free to reach out if you want to add features like rate limiting, database persistence, or Docker deployment!
+
 
 
 
